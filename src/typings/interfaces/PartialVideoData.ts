@@ -1,3 +1,4 @@
+import { TagData } from ".";
 import { If } from "../types/If"
 
 export interface PartialVideoData<K extends boolean = false> {
@@ -21,7 +22,7 @@ export interface PartialVideoData<K extends boolean = false> {
     dislikes: number
     downloads: number
     monthly_rank: number
-    tags: If<K, unknown[], string[]>
+    tags: If<K, TagData[], string[] | undefined>
     created_at: number
     released_at: number
     created_at_unix?: number
