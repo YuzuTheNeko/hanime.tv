@@ -1,1 +1,0 @@
-{"version":3,"file":"BrandData.d.ts","sourceRoot":"","sources":["../../../src/typings/interfaces/BrandData.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,SAAS;IACtB,EAAE,EAAE,MAAM,CAAA;IACV,KAAK,EAAE,MAAM,CAAA;IACb,IAAI,EAAE,MAAM,CAAA;IACZ,WAAW,EAAE,OAAO,CAAA;IACpB,QAAQ,EAAE,OAAO,CAAA;IACjB,KAAK,EAAE,OAAO,CAAA;IACd,KAAK,EAAE,MAAM,CAAA;CAChB"}
