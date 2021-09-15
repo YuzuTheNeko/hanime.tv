@@ -1,6 +1,6 @@
 {
   "name": "hanime.tv",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "package made to use [hanime.tv](https://hanime.tv) api and download videos from it.",
   "types": "dist/index.d.ts",
   "module": "dist/index.mjs",
@@ -14,6 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.4"
+  },
+  "repository": {
+    "url": "https://github.com/Rubenennj/hanime.tv"
   },
   "files": [
     "dist"
