@@ -1,0 +1,1 @@
+{"version":3,"file":"PartialVideo.d.ts","sourceRoot":"","sources":["../../src/structures/PartialVideo.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,gBAAgB,EAAE,MAAM,wCAAwC,CAAC;AAE1E,OAAO,EAAE,KAAK,EAAE,MAAM,SAAS,CAAC;AAEhC,qBAAa,YAAY;IACrB,OAAO,CAAC,IAAI,CAAkB;gBAElB,IAAI,EAAE,gBAAgB;IAIlC,IAAI,IAAI,4BAEP;IAED,IAAI,GAAG,WAEN;IAEK,KAAK;IAIX,QAAQ;CAGX"}

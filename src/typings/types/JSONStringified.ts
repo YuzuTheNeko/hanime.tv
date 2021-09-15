@@ -1,0 +1,1 @@
+export type JSONStringified = string

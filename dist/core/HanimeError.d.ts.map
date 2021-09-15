@@ -1,0 +1,1 @@
+{"version":3,"file":"HanimeError.d.ts","sourceRoot":"","sources":["../../src/core/HanimeError.ts"],"names":[],"mappings":"AAAA,qBAAa,WAAY,SAAQ,KAAK;gBACtB,KAAK,EAAE,MAAM,EAAE,GAAG,MAAM,EAAE,OAAO,EAAE;IAM/C,MAAM,CAAC,WAAW,CAAC,KAAK,EAAE,MAAM,EAAE,GAAG,MAAM,EAAE,OAAO,EAAE,GAAG,MAAM;CAIlE"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"QuerySearchResult.d.ts","sourceRoot":"","sources":["../../../src/typings/interfaces/QuerySearchResult.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,oBAAoB,CAAC;AAEtD,MAAM,WAAW,iBAAiB;IAC9B,IAAI,EAAE,MAAM,CAAA;IACZ,UAAU,EAAE,MAAM,CAAA;IAClB,WAAW,EAAE,MAAM,CAAA;IACnB,aAAa,EAAE,MAAM,CAAA;IACrB,MAAM,EAAE,gBAAgB,EAAE,CAAA;CAC7B"}

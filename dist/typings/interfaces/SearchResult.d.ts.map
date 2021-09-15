@@ -1,0 +1,1 @@
+{"version":3,"file":"SearchResult.d.ts","sourceRoot":"","sources":["../../../src/typings/interfaces/SearchResult.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,oBAAoB,CAAC;AAEtD,MAAM,WAAW,YAAY;IACzB,IAAI,EAAE,MAAM,CAAA;IACZ,UAAU,EAAE,MAAM,CAAA;IAClB,WAAW,EAAE,MAAM,CAAA;IACnB,aAAa,EAAE,MAAM,CAAA;IACrB,MAAM,EAAE,gBAAgB,EAAE,CAAA;CAC7B"}
